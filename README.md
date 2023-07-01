@@ -1,6 +1,6 @@
 ### Cześć! Jestem Paweł :) 
 
-✔ Interesują mnie bazy danych, w przyszłości chciałbym pracować przy nich.
+✔ Interesują mnie bazy danych, w przyszłości chciałbym przy nich pracować.
 
 ✔ Zapraszam do moich repozytorium gdzie możesz dowiedzieć się nieco więcej.
 
