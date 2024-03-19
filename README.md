@@ -1,8 +1,8 @@
 ### Cześć! Jestem Paweł :) 
 
-Witaj na moim profilu GitHub! Jestem pasjonatem baz danych i entuzjastą rozwiązań technologicznych, który nieustannie poszukuje nowych sposobów optymalizacji oraz wydajności w zarządzaniu danymi. Moje repozytoria to nie tylko zbiór kodu, ale również przestrzeń, w której eksploruję różnorodne technologie bazodanowe, od relacyjnych po NoSQL, dążąc do doskonałości w projektowaniu, implementacji i optymalizacji baz danych.
+Witaj na moim profilu GitHub! Jestem pasjonatem baz danych oraz analizy danych, który nieustannie poszukuje nowych sposobów optymalizacji oraz wydajności w zarządzaniu danymi oraz ich analizie. Moje repozytoria to nie tylko zbiór kodu, ale również przestrzeń, w której eksploruję różnorodne technologie bazodanowe, od relacyjnych po NoSQL, oraz narzędzia analizy danych, dążąc do doskonałości w projektowaniu, implementacji i optymalizacji baz danych oraz algorytmów analizy danych.
 
-Zapraszam Cię do odkrywania moich projektów, gdzie znajdziesz nie tylko praktyczne przykłady zastosowań różnych systemów bazodanowych, ale także inspirujące eksperymenty i narzędzia ułatwiające pracę z danymi. Jeśli podobnie jak ja fascynujesz się światem baz danych i chcesz rozwijać swoje umiejętności w tym obszarze, to świetnie się składa - dołącz do mojej podróży po świecie danych i odkryj razem ze mną nowe możliwości!
+Zapraszam Cię do odkrywania moich projektów, gdzie znajdziesz nie tylko praktyczne przykłady zastosowań różnych systemów bazodanowych, ale także inspirujące eksperymenty i narzędzia ułatwiające zarządzanie i analizę danych. Jeśli podobnie jak ja fascynujesz się światem baz danych i analizy danych oraz chcesz rozwijać swoje umiejętności w tych obszarach, to świetnie się składa - dołącz do mojej podróży po świecie danych i odkryj razem ze mną nowe możliwości!
 
 <h2></h2>
 
